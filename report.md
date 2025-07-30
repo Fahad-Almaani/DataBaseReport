@@ -418,23 +418,3 @@ This report has explored fundamental database concepts essential for understandi
 As organizations continue to generate increasing amounts of data, understanding these database concepts becomes crucial for making informed technology decisions and building robust data management strategies.
 
 ---
-
-## 7. References
-
-1. Connolly, T., & Begg, C. (2014). _Database Systems: A Practical Approach to Design, Implementation, and Management_. Pearson.
-
-2. Elmasri, R., & Navathe, S. (2016). _Fundamentals of Database Systems_. Pearson.
-
-3. Microsoft Azure Documentation. (2025). _Azure SQL Database Overview_. Microsoft.
-
-4. Amazon Web Services. (2025). _Amazon RDS User Guide_. AWS Documentation.
-
-5. MongoDB Inc. (2025). _MongoDB Documentation_. MongoDB.
-
-6. Apache Software Foundation. (2025). _Apache Cassandra Documentation_. Apache.
-
-7. Date, C. J. (2019). _Database Design and Relational Theory: Normal Forms and All That Jazz_. O'Reilly Media.
-
----
-
-_This report was completed as part of the Database Management Systems course requirements. All content represents my understanding of database concepts through research and study._
